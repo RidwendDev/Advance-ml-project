@@ -10,7 +10,7 @@ Let's dive into the core algorithm 🚀
 Input: n_estimators, max_depth, min_samples_split <br>
 Output: Initialized ETC model <br>
 ```
-1. Set n_estimators, max_depth, dan min_samples_split sesuai parameter input.
+1. Set n_estimators, max_depth, dan min_samples_split into input params.
 2. Initialize the array to store the decision trees.
 3. Return the initialized Extra Trees model.
 ```

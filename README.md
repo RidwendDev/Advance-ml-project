@@ -1,4 +1,4 @@
-# Make a ExtraTreesClassifier from scratch
+# Make a ExtraTreesClassifier from scratch 🧩
 
 This project provides an implementation of a Extra Trees Classifier algorithm from scratch, without libraries scikit-learn. <br>
 i'll embark on a journey to create an Extra Trees Classifier from scratch, immersing ourselves in the intricate details of its inner workings.

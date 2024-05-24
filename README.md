@@ -1,5 +1,5 @@
 # Make a ExtraTreesClassifier algo from scratch 🧩
-
+### Pacmann Project
 This project provides an implementation of a Extra Trees Classifier algorithm from scratch, without libraries scikit-learn. i'll embark on a journey to create an Extra Trees Classifier from scratch, immersing ourselves in the intricate details of its inner workings.
 
 By constructing each component step-by-step, we'll uncover the elegance and effectiveness of this ensemble learning technique. Our journey begins with crafting a clear pseudocode, ensuring a well-structured and efficient implementation.
